@@ -120,8 +120,8 @@ The library includes three example sketches:
 
 ## Available Gain Settings
 
-- `ADS1015_REG_SET_GAIN0_6_144V`: ±6.144V
-- `ADS1015_REG_SET_GAIN1_4_096V`: ±4.096V (recommended)
+- `ADS1015_REG_SET_GAIN0_6_144V`: ±6.144V (recommended for APA Devicess pH module and for classic ph analog module as well)
+- `ADS1015_REG_SET_GAIN1_4_096V`: ±4.096V (recommanded for APA Device ORP module) 
 - `ADS1015_REG_SET_GAIN2_2_048V`: ±2.048V
 - `ADS1015_REG_SET_GAIN4_1_024V`: ±1.024V
 - `ADS1015_REG_SET_GAIN8_0_512V`: ±0.512V
