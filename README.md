@@ -1,4 +1,4 @@
-# APAPHX ADS1015 Library
+# APADevices PHX ADS1015 Library
 
 Arduino library for pH and ORP/Redox measurements using ADS1015 ADC. Originally designed for APADevices PHX hardware but compatible with any pH/ORP analog circuits using ADS1015.
 
