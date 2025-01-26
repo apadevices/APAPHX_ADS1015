@@ -45,7 +45,8 @@ ADS1015 ads1015RX(ADDRESS_48);  // ORP sensor
 void setup() {
     ads1015PH.begin();
     ads1015RX.begin();
-    
+
+    //Set preferred ADS gain aligned with your needs
     ads1015PH.setGain(ADS1015_REG_SET_GAIN1_4_096V);
     ads1015RX.setGain(ADS1015_REG_SET_GAIN1_4_096V);
 }
