@@ -11,7 +11,7 @@ Arduino library for pH and ORP/Redox measurements using ADS1015 ADC. Originally 
 - Rolling average support
 - No external dependencies (uses only Wire.h)
 - pH range: 0-14 with validation
-- ORP range: 0-1000mV with validation
+- ORP range: 0-1000mV with validation (configurable)
 
 ## Installation
 
