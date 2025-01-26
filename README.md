@@ -75,7 +75,7 @@ void loop() {
 Two-point calibration is required for accurate readings:
 
 ```cpp
-// pH Calibration (using pH 4 and 7 buffers)
+// pH Calibration (using pH 4 and 7 buffers by default, configurable - see bellow)
 PHX_Calibration phCal;
 
 // First point (pH 4)
@@ -88,7 +88,7 @@ phCal.ref2_value = 7.0;
 
 ads1015PH.calibratePHX("ph", phCal);
 
-// ORP Calibration (using 475mV and 650mV solutions)
+// ORP Calibration (using 475mV and 650mV solution buffers by default, edit if wanted)
 PHX_Calibration orpCal;
 orpCal.ref1_mV = ads1015RX.calibratePHXReading("rx");
 orpCal.ref1_value = 475.0;
