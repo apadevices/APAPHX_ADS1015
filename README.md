@@ -183,6 +183,7 @@ The library includes five example sketches with a logical learning progression:
 3. **APAPHX_advanced_example**: Full feature demonstration including error handling
 4. **APAPHX_basic_temperature_example**: Temperature compensation demonstration
 5. **APAPHX_eeprom_calsave_example**: Permanent calibration storage with automatic loading
+6. **APAPHX_chlorine_levels_example**: Extract approx. CL levels (ppm) based on messurements 
 
 ### Learning Progression
 
@@ -233,5 +234,6 @@ APADevices [@kecup]
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
+
 
 No support included! Use as is or leave it. Sorry about that.
