@@ -214,6 +214,7 @@ The EEPROM CalSave example represents the most complete solution - a professiona
 - Optimized for swimming pool applications
 - Backward compatible with v1.0.0
 - EEPROM example added
+- Chlorine examples added
 
 ### v1.0.0
 - Initial release
@@ -237,3 +238,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 No support included! Use as is or leave it. Sorry about that.
+
