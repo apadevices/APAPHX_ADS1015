@@ -1,0 +1,6 @@
+Basic - Simple continuous reading with combined calibration
+Intermediate - Separate calibration triggers with rolling average
+Advanced - Full feature set with error handling and status monitoring
+Basic Temperature - Temperature compensation demonstration
+EEPROM CalSave - Permanent calibration storage with automatic loading
+Chlorine Levels - Basic derivate functions to calc Free, Bounded and Total Cl from messurements
