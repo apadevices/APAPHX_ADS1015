@@ -228,7 +228,7 @@ This library is released under the MIT License.
 
 ## Author
 
-APADevices [@kecup]
+author=APADevices <jaroslav@vazac.eu>
 
 ## Contributing
 
